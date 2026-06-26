@@ -22,7 +22,8 @@ The project was inspired by a Multi-Model Comparison Tool and enhanced with a cu
 * OpenAI SDK
 * Generative AI
 ---
-## 📂 Project Structure
+📂 Project Structure
+```text
 AI-Race-Track/
 │
 ├── app.py
@@ -30,7 +31,8 @@ AI-Race-Track/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-├── .env              # Local only (not uploaded)
+├── .env              #
+ Local only (not uploaded)
 ├── .venv/            # Local only (not uploaded)
 └── __pycache__/      # Auto-generated (not uploaded)
 ```
