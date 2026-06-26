@@ -40,8 +40,7 @@ AI-Race-Track/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-├── .env              #
- Local only (not uploaded)
+├── .env              # Local only (not uploaded)
 ├── .venv/            # Local only (not uploaded)
 └── __pycache__/      # Auto-generated (not uploaded)
 ```
